@@ -7,34 +7,34 @@ Step by step guide to becoming a modern Java developer
 
 ### [Git Tutorials](https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
 
-- [ ] What is Git/GitHub & Why do we need it? | Git Tutorials #1
-- [ ] Installing Git + Initial Setup? | Git Tutorials #2
-- [ ] Git: Three Stage Architecture | Git Tutorials #3
-- [ ] Tracking Our first Git Project | Git Tutorials #4
-- [ ] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
-- [ ] Git: File Status Lifecycle | Git Tutorials #6
-- [ ] .gitignore: Ignoring Files in Git | Git Tutorials #7
-- [ ] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
-- [ ] Git: Skipping The Staging Area | Git Tutorials #9
-- [ ] Moving and Renaming Files In Git | Git Tutorials #10
-- [ ] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
-- [ ] Unstaging & Unmodifying Files In Git | Git Tutorials #12
-- [ ] GitHub: Working with Remote Repositories | Git Tutorials #13
-- [ ] Setting Alias In Git | Git Tutorials #14
-- [ ] Git: Creating & Switching Branches In Git | Git Tutorials #15
-- [ ] Branching & Merging a Production Grade Project | Git Tutorials #16
-- [ ] Resolving Merge Conflicts (With Example) | Git Tutorials #17
-- [ ] Git Branching Workflow in Production | Git Tutorials #18
-- [ ] Pushing Git Branches To Remote Repositories | Git Tutorials #19
+- [Done] What is Git/GitHub & Why do we need it? | Git Tutorials #1
+- [Done] Installing Git + Initial Setup? | Git Tutorials #2
+- [Done] Git: Three Stage Architecture | Git Tutorials #3
+- [Done] Tracking Our first Git Project | Git Tutorials #4
+- [Done] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
+- [Done] Git: File Status Lifecycle | Git Tutorials #6
+- [Done] .gitignore: Ignoring Files in Git | Git Tutorials #7
+- [Done] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
+- [Done] Git: Skipping The Staging Area | Git Tutorials #9
+- [Done] Moving and Renaming Files In Git | Git Tutorials #10
+- [Done] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
+- [Done] Unstaging & Unmodifying Files In Git | Git Tutorials #12
+- [Done] GitHub: Working with Remote Repositories | Git Tutorials #13
+- [Done] Setting Alias In Git | Git Tutorials #14
+- [Done] Git: Creating & Switching Branches In Git | Git Tutorials #15
+- [Done] Branching & Merging a Production Grade Project | Git Tutorials #16
+- [Done] Resolving Merge Conflicts (With Example) | Git Tutorials #17
+- [Done] Git Branching Workflow in Production | Git Tutorials #18
+- [Done] Pushing Git Branches To Remote Repositories | Git Tutorials #19
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
- - [ ] Getting Started
- - [ ] Programming Tools Setup
- - [ ] First Steps
- - [ ] IntelliJ Basics
- - [ ] Expressions, Statements & More
- - [ ] Control Flow
+ - [Done] Getting Started
+ - [Done] Programming Tools Setup
+ - [Done] First Steps
+ - [Done] IntelliJ Basics
+ - [Done] Expressions, Statements & More
+ - [Done] Control Flow
  - [ ] OOP Part 1 - Inheritance
  - [ ] OOP Part 2 - Polymorphism
  - [ ] Arrays
