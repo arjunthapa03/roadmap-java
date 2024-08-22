@@ -43,8 +43,8 @@ Step by step guide to becoming a modern Java developer
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
  - [Done] Day 00
- - [ ] Day 01
- - [ ] Day 02
+ - [Done] Day 01
+ - [Done] Day 02
  - [ ] Day 03
  - [ ] Day 04
  - [ ] Day 05
@@ -60,10 +60,10 @@ Step by step guide to becoming a modern Java developer
  - [Done] Abstraction in Java
  - [Done] Generics
  - [Done] Nested Classes and Types
- - [ ] Lambda Expressions, Functional Interfaces, and Method References
- - [ ] Java Collections
- - [ ] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
- - [ ] Streams
+ - [Done] Lambda Expressions, Functional Interfaces, and Method References
+ - [Done] Java Collections
+ - [Done] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
+ - [Done] Streams
  - [ ] Back to a Few Nuts and Bolts
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
