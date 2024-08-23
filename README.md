@@ -45,7 +45,7 @@ Step by step guide to becoming a modern Java developer
  - [Done] Day 00
  - [Done] Day 01
  - [Done] Day 02
- - [ ] Day 03
+ - [Done] Day 03
  - [ ] Day 04
  - [ ] Day 05
  - [ ] Day 06
@@ -64,7 +64,7 @@ Step by step guide to becoming a modern Java developer
  - [Done] Java Collections
  - [Done] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
  - [Done] Streams
- - [ ] Back to a Few Nuts and Bolts
+ - [Done] Back to a Few Nuts and Bolts
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
@@ -83,7 +83,7 @@ Step by step guide to becoming a modern Java developer
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
- - [ ] Regular Expressions
+ - [Done] Regular Expressions
  - [ ] Input & Output (I/O), Working with Files in Java
  - [ ] Concurrency
  - [ ] Working with Databases
