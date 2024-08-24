@@ -7,46 +7,46 @@ Step by step guide to becoming a modern Java developer
 
 ### [Git Tutorials](https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
 
-- [Done] What is Git/GitHub & Why do we need it? | Git Tutorials #1
-- [Done] Installing Git + Initial Setup? | Git Tutorials #2
-- [Done] Git: Three Stage Architecture | Git Tutorials #3
-- [Done] Tracking Our first Git Project | Git Tutorials #4
-- [Done] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
-- [Done] Git: File Status Lifecycle | Git Tutorials #6
-- [Done] .gitignore: Ignoring Files in Git | Git Tutorials #7
-- [Done] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
-- [Done] Git: Skipping The Staging Area | Git Tutorials #9
-- [Done] Moving and Renaming Files In Git | Git Tutorials #10
-- [Done] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
-- [Done] Unstaging & Unmodifying Files In Git | Git Tutorials #12
-- [Done] GitHub: Working with Remote Repositories | Git Tutorials #13
-- [Done] Setting Alias In Git | Git Tutorials #14
-- [Done] Git: Creating & Switching Branches In Git | Git Tutorials #15
-- [Done] Branching & Merging a Production Grade Project | Git Tutorials #16
-- [Done] Resolving Merge Conflicts (With Example) | Git Tutorials #17
-- [Done] Git Branching Workflow in Production | Git Tutorials #18
-- [Done] Pushing Git Branches To Remote Repositories | Git Tutorials #19
+- [x] What is Git/GitHub & Why do we need it? | Git Tutorials #1
+- [x] Installing Git + Initial Setup? | Git Tutorials #2
+- [x] Git: Three Stage Architecture | Git Tutorials #3
+- [x] Tracking Our first Git Project | Git Tutorials #4
+- [x] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
+- [x] Git: File Status Lifecycle | Git Tutorials #6
+- [x] .gitignore: Ignoring Files in Git | Git Tutorials #7
+- [x] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
+- [x] Git: Skipping The Staging Area | Git Tutorials #9
+- [x] Moving and Renaming Files In Git | Git Tutorials #10
+- [x] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
+- [x] Unstaging & Unmodifying Files In Git | Git Tutorials #12
+- [x] GitHub: Working with Remote Repositories | Git Tutorials #13
+- [x] Setting Alias In Git | Git Tutorials #14
+- [x] Git: Creating & Switching Branches In Git | Git Tutorials #15
+- [x] Branching & Merging a Production Grade Project | Git Tutorials #16
+- [x] Resolving Merge Conflicts (With Example) | Git Tutorials #17
+- [x] Git Branching Workflow in Production | Git Tutorials #18
+- [x] Pushing Git Branches To Remote Repositories | Git Tutorials #19
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
- - [Done] Getting Started
- - [Done] Programming Tools Setup
- - [Done] First Steps
- - [Done] IntelliJ Basics
- - [Done] Expressions, Statements & More
- - [Done] Control Flow
- - [Done] OOP Part 1 - Inheritance
- - [Done] OOP Part 2 - Polymorphism
- - [Done] Arrays
- - [Done] List, ArrayList, LinkedList, Iterator, Autoboxing
+ - [x] Getting Started
+ - [x] Programming Tools Setup
+ - [x] First Steps
+ - [x] IntelliJ Basics
+ - [x] Expressions, Statements & More
+ - [x] Control Flow
+ - [x] OOP Part 1 - Inheritance
+ - [x] OOP Part 2 - Polymorphism
+ - [x] Arrays
+ - [x] List, ArrayList, LinkedList, Iterator, Autoboxing
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
- - [Done] Day 00
- - [Done] Day 01
- - [Done] Day 02
- - [Done] Day 03
- - [ ] Day 04
+ - [x] Day 00
+ - [x] Day 01
+ - [x] Day 02
+ - [x] Day 03
+ - [x] Day 04
  - [ ] Day 05
  - [ ] Day 06
  - [ ] Day 07
@@ -57,14 +57,14 @@ Step by step guide to becoming a modern Java developer
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
- - [Done] Abstraction in Java
- - [Done] Generics
- - [Done] Nested Classes and Types
- - [Done] Lambda Expressions, Functional Interfaces, and Method References
- - [Done] Java Collections
- - [Done] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
- - [Done] Streams
- - [Done] Back to a Few Nuts and Bolts
+ - [x] Abstraction in Java
+ - [x] Generics
+ - [x] Nested Classes and Types
+ - [x] Lambda Expressions, Functional Interfaces, and Method References
+ - [x] Java Collections
+ - [x] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
+ - [x] Streams
+ - [x] Back to a Few Nuts and Bolts
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
@@ -83,7 +83,7 @@ Step by step guide to becoming a modern Java developer
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
- - [Done] Regular Expressions
+ - [x] Regular Expressions
  - [ ] Input & Output (I/O), Working with Files in Java
  - [ ] Concurrency
  - [ ] Working with Databases
