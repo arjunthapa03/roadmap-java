@@ -47,7 +47,7 @@ Step by step guide to becoming a modern Java developer
  - [x] Day 02
  - [x] Day 03
  - [x] Day 04
- - [ ] Day 05
+ - [x] Day 05
  - [ ] Day 06
  - [ ] Day 07
  - [ ] Day 08
@@ -84,11 +84,11 @@ Step by step guide to becoming a modern Java developer
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
  - [x] Regular Expressions
- - [ ] Input & Output (I/O), Working with Files in Java
- - [ ] Concurrency
- - [ ] Working with Databases
- - [ ] Java Networking with Channels, Reactive Programming, and Virtual Threads
- - [ ] Debugging and Unit Testing
+ - [x] Input & Output (I/O), Working with Files in Java
+ - [x] Concurrency
+ - [x] Working with Databases
+ - [x] Java Networking with Channels, Reactive Programming, and Virtual Threads
+ - [x] Debugging and Unit Testing
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
