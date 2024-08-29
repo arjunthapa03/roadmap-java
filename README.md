@@ -49,8 +49,8 @@ Step by step guide to becoming a modern Java developer
  - [x] Day 04
  - [x] Day 05
  - [x] Day 06
- - [ ] Day 07
- - [ ] Day 08
+ - [X] Day 07
+ - [X] Day 08
  - [ ] Day 09
 
 ## Basic Stage 2
@@ -112,11 +112,11 @@ Step by step guide to becoming a modern Java developer
  - [x]  03 - Understanding Spring Bean Factory
  - [x]  04 - Writing Code Using the Bean Factory
  - [x]  05 - ApplicationContext and Property Initialization
- - [ ]  06 - Using Constructor Injection
- - [ ]  07 - Injecting Objects
- - [ ]  08 - Inner Beans, Aliases and idref
- - [ ]  09 - Initializing Collections
- - [ ]  10 - Bean Autowiring
+ - [X]  06 - Using Constructor Injection
+ - [X]  07 - Injecting Objects
+ - [X]  08 - Inner Beans, Aliases and idref
+ - [X]  09 - Initializing Collections
+ - [x]  10 - Bean Autowiring
  - [ ]  11 - Understanding Bean Scopes
  - [ ]  12 - Using ApplicationContextAware
  - [ ]  13 - Bean Definition Inheritance
