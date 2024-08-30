@@ -68,7 +68,7 @@ Step by step guide to becoming a modern Java developer
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
- - [ ] Day 10
+ - [X] Day 10
  - [ ] Day 11
  - [ ] Day 12
  - [ ] Day 13
@@ -125,12 +125,12 @@ Step by step guide to becoming a modern Java developer
  - [X]  16 - Writing a BeanFactoryPostProcessor
  - [X]  17 - Coding To Interfaces
  - [X]  18 - Introduction to Annotations and the Required Annotation
- - [ ]  19 - The Autowired Annotation
- - [ ]  20 - Some JSR-250 Annotations
- - [ ]  21 - Component and Stereotype Annotations
- - [ ]  22 - Using MessageSource To Get Text From Property Files
- - [ ]  23 - Event Handling in Spring
- - [ ]  24 - Introduction to AOP
+ - [X]  19 - The Autowired Annotation
+ - [X]  20 - Some JSR-250 Annotations
+ - [X]  21 - Component and Stereotype Annotations
+ - [X]  22 - Using MessageSource To Get Text From Property Files
+ - [X]  23 - Event Handling in Spring
+ - [X]  24 - Introduction to AOP
 
 ### [Spring Data Support](https://www.youtube.com/watch?v=eR_JFtqyNL4&list=PL1A506B159E5BD13E)
 
