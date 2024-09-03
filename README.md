@@ -69,9 +69,9 @@ Step by step guide to becoming a modern Java developer
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
  - [X] Day 10
- - [ ] Day 11
- - [ ] Day 12
- - [ ] Day 13
+ - [X] Day 11
+ - [x] Day 12
+ - [X] Day 13
  - [ ] Day 14
  - [ ] Day 15
  - [ ] Day 16
@@ -134,8 +134,8 @@ Step by step guide to becoming a modern Java developer
 
 ### [Spring Data Support](https://www.youtube.com/watch?v=eR_JFtqyNL4&list=PL1A506B159E5BD13E)
 
- - [ ] 01 - Introduction to Spring Data and Setting Up
- - [ ] 02 - Using JDBC without Spring
+ - [X] 01 - Introduction to Spring Data and Setting Up
+ - [X] 02 - Using JDBC without Spring
  - [ ] 03 - Adding Spring and DataSource Configuration
  - [ ] 04 - Using JdbcTemplate
  - [ ] 05 - Returning Other Datatypes from JdbcTemplate
