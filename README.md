@@ -75,9 +75,9 @@ Step by step guide to becoming a modern Java developer
  - [X] Day 14
  - [X] Day 15
  - [X] Day 16
- - [ ] Day 17
- - [ ] Day 18
- - [ ] Day 19
+ - [X] Day 17
+ - [X] Day 18
+ - [X] Day 19
 
 ## Basic Stage 3
 
@@ -92,7 +92,7 @@ Step by step guide to becoming a modern Java developer
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
- - [ ] Day 20
+ - [X] Day 20
  - [ ] Day 21
  - [ ] Day 22
  - [ ] Day 23
@@ -155,15 +155,15 @@ Step by step guide to becoming a modern Java developer
  - [X] 04 - Spring and some of its problems
  - [X] 05 - What Spring Boot gives us
  - [X] 06 - Setting Up Development Environment
- - [ ] 07 - Maven
- - [ ] 08 - Creating a Spring Boot project
- - [ ] 09 - Starting a Spring Boot application
- - [ ] 10 - Spring Boot startup steps
- - [ ] 11 - Adding a REST Controller
- - [ ] 12 - Returning Objects From Controller
- - [ ] 13 - What's Happening Here: Bill Of Materials
- - [ ] 14 - What's Happening Here: Embedded Servlet Container
- - [ ] 15 - How Spring MVC Works
+ - [X] 07 - Maven
+ - [x] 08 - Creating a Spring Boot project
+ - [x] 09 - Starting a Spring Boot application
+ - [x] 10 - Spring Boot startup steps
+ - [X] 11 - Adding a REST Controller
+ - [X] 12 - Returning Objects From Controller
+ - [X] 13 - What's Happening Here: Bill Of Materials
+ - [X] 14 - What's Happening Here: Embedded Servlet Container
+ - [X] 15 - How Spring MVC Works
  - [ ] 16 - The REST API we'll build
  - [ ] 17 - Creating a business service
  - [ ] 18 - Getting a single resource
