@@ -164,9 +164,9 @@ Step by step guide to becoming a modern Java developer
  - [X] 13 - What's Happening Here: Bill Of Materials
  - [X] 14 - What's Happening Here: Embedded Servlet Container
  - [X] 15 - How Spring MVC Works
- - [ ] 16 - The REST API we'll build
- - [ ] 17 - Creating a business service
- - [ ] 18 - Getting a single resource
+ - [X] 16 - The REST API we'll build
+ - [X] 17 - Creating a business service
+ - [X] 18 - Getting a single resource
  - [ ] 19 - Creating a new resource using POST
  - [ ] 20 - Implementing Update and Delete
  - [ ] 21 - Unit Overview
