@@ -178,20 +178,20 @@ Step by step guide to becoming a modern Java developer
  - [X] 27 - Adding Spring Data JPA
  - [X] 28 - Creating a Spring Data JPA Repository
  - [X] 29 - Making Crud Operations with Repository
- - [ ] 30 - Adding Course APIs
- - [ ] 31 - Adding Entity Relationship and Extending Repository
- - [ ] 32 - Packaging and running a Spring Boot app
- - [ ] 33 - Spring Boot Actuator
- - [ ] 34 - Wrap Up
+ - [X] 30 - Adding Course APIs
+ - [X] 31 - Adding Entity Relationship and Extending Repository
+ - [X] 32 - Packaging and running a Spring Boot app
+ - [X] 33 - Spring Boot Actuator
+ - [x] 34 - Wrap Up
 
 ### [Junit 5 Basics](https://www.youtube.com/watch?v=2E3WqYupx7c&list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o&ab_channel=JavaBrains)
 
- - [ ] 01 - Introduction and agenda
- - [ ] 02 - Why write tests
- - [ ] 03 - Why do we need a testing framework
- - [ ] 04 - Why JUnit 5
- - [ ] 05 - JUnit 5 Architecture
- - [ ] 06 - Creating a new JUnit 5 Maven project
+ - [x] 01 - Introduction and agenda
+ - [x] 02 - Why write tests
+ - [x ] 03 - Why do we need a testing framework
+ - [ x] 04 - Why JUnit 5
+ - [x ] 05 - JUnit 5 Architecture
+ - [ x] 06 - Creating a new JUnit 5 Maven project
  - [ ] 07 - Creating a JUnit test
  - [ ] 08 - Running a test
  - [ ] 09 - The @Test annotation
