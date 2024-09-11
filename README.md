@@ -93,7 +93,7 @@ Step by step guide to becoming a modern Java developer
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
  - [X] Day 20
- - [ ] Day 21
+ - [X] Day 21
  - [ ] Day 22
  - [ ] Day 23
  - [ ] Day 24
@@ -167,17 +167,17 @@ Step by step guide to becoming a modern Java developer
  - [X] 16 - The REST API we'll build
  - [X] 17 - Creating a business service
  - [X] 18 - Getting a single resource
- - [ ] 19 - Creating a new resource using POST
- - [ ] 20 - Implementing Update and Delete
- - [ ] 21 - Unit Overview
- - [ ] 22 - Using Spring Initializr
- - [ ] 23 - Using Spring Boot CLI
- - [ ] 24 - Using the STS IDE
- - [ ] 25 - Using application properties
- - [ ] 26 - What is JPA
- - [ ] 27 - Adding Spring Data JPA
- - [ ] 28 - Creating a Spring Data JPA Repository
- - [ ] 29 - Making Crud Operations with Repository
+ - [X] 19 - Creating a new resource using POST
+ - [X] 20 - Implementing Update and Delete
+ - [X] 21 - Unit Overview
+ - [X] 22 - Using Spring Initializr
+ - [X] 23 - Using Spring Boot CLI
+ - [X] 24 - Using the STS IDE
+ - [X] 25 - Using application properties
+ - [X] 26 - What is JPA
+ - [X] 27 - Adding Spring Data JPA
+ - [X] 28 - Creating a Spring Data JPA Repository
+ - [X] 29 - Making Crud Operations with Repository
  - [ ] 30 - Adding Course APIs
  - [ ] 31 - Adding Entity Relationship and Extending Repository
  - [ ] 32 - Packaging and running a Spring Boot app
