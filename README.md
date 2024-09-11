@@ -94,8 +94,8 @@ Step by step guide to becoming a modern Java developer
 
  - [X] Day 20
  - [X] Day 21
- - [ ] Day 22
- - [ ] Day 23
+ - [X] Day 22
+ - [x] Day 23
  - [ ] Day 24
  - [ ] Day 25
  - [ ] Day 26
@@ -188,10 +188,10 @@ Step by step guide to becoming a modern Java developer
 
  - [x] 01 - Introduction and agenda
  - [x] 02 - Why write tests
- - [x ] 03 - Why do we need a testing framework
- - [ x] 04 - Why JUnit 5
- - [x ] 05 - JUnit 5 Architecture
- - [ x] 06 - Creating a new JUnit 5 Maven project
+ - [x] 03 - Why do we need a testing framework
+ - [x] 04 - Why JUnit 5
+ - [x] 05 - JUnit 5 Architecture
+ - [x] 06 - Creating a new JUnit 5 Maven project
  - [ ] 07 - Creating a JUnit test
  - [ ] 08 - Running a test
  - [ ] 09 - The @Test annotation
