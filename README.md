@@ -97,7 +97,7 @@ Step by step guide to becoming a modern Java developer
  - [X] Day 22
  - [x] Day 23
  - [X] Day 24
- - [ ] Day 25
+ - [X] Day 25
  - [ ] Day 26
  - [ ] Day 27
  - [ ] Day 28
@@ -200,13 +200,13 @@ Step by step guide to becoming a modern Java developer
  - [X] 12 - Test driven development with JUnit
  - [X] 13 - Maven surefire plugin integration
  - [X] 14 - Asserting exceptions with assertThrows
- - [ ] 15 - Life cycle and test antipatterns to avoid
- - [ ] 16 - Using JUnit lifecycle hook annotations
- - [ ] 17 - Examining BeforeAll and AfterAll
- - [ ] 18 - Changing default TestInstance behavior
- - [ ] 19 - Using DisplayName and Disabled annotations
- - [ ] 20 - Conditional executions and assumptions
- - [ ] 21 - Using AssertAll
+ - [X] 15 - Life cycle and test antipatterns to avoid
+ - [x] 16 - Using JUnit lifecycle hook annotations
+ - [X] 17 - Examining BeforeAll and AfterAll
+ - [X] 18 - Changing default TestInstance behavior
+ - [X] 19 - Using DisplayName and Disabled annotations
+ - [X] 20 - Conditional executions and assumptions
+ - [X] 21 - Using AssertAll
  - [ ] 22 - Writing nested test classes
  - [ ] 23 - Using supplier for assert messages
  - [ ] 24 - Using RepeatedTest
