@@ -96,7 +96,7 @@ Step by step guide to becoming a modern Java developer
  - [X] Day 21
  - [X] Day 22
  - [x] Day 23
- - [ ] Day 24
+ - [X] Day 24
  - [ ] Day 25
  - [ ] Day 26
  - [ ] Day 27
@@ -192,14 +192,14 @@ Step by step guide to becoming a modern Java developer
  - [x] 04 - Why JUnit 5
  - [x] 05 - JUnit 5 Architecture
  - [x] 06 - Creating a new JUnit 5 Maven project
- - [ ] 07 - Creating a JUnit test
- - [ ] 08 - Running a test
- - [ ] 09 - The @Test annotation
- - [ ] 10 - Using Assertions
- - [ ] 11 - Assert methods
- - [ ] 12 - Test driven development with JUnit
- - [ ] 13 - Maven surefire plugin integration
- - [ ] 14 - Asserting exceptions with assertThrows
+ - [X] 07 - Creating a JUnit test
+ - [X] 08 - Running a test
+ - [X] 09 - The @Test annotation
+ - [X] 10 - Using Assertions
+ - [X] 11 - Assert methods
+ - [X] 12 - Test driven development with JUnit
+ - [X] 13 - Maven surefire plugin integration
+ - [X] 14 - Asserting exceptions with assertThrows
  - [ ] 15 - Life cycle and test antipatterns to avoid
  - [ ] 16 - Using JUnit lifecycle hook annotations
  - [ ] 17 - Examining BeforeAll and AfterAll
