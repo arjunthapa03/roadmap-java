@@ -98,8 +98,8 @@ Step by step guide to becoming a modern Java developer
  - [x] Day 23
  - [X] Day 24
  - [X] Day 25
- - [ ] Day 26
- - [ ] Day 27
+ - [X] Day 26
+ - [X] Day 27
  - [ ] Day 28
  - [ ] Day 29
 
@@ -207,9 +207,9 @@ Step by step guide to becoming a modern Java developer
  - [X] 19 - Using DisplayName and Disabled annotations
  - [X] 20 - Conditional executions and assumptions
  - [X] 21 - Using AssertAll
- - [ ] 22 - Writing nested test classes
- - [ ] 23 - Using supplier for assert messages
- - [ ] 24 - Using RepeatedTest
- - [ ] 25 - Tagging tests with @Tag
- - [ ] 26 - Using TestInfo and TestReporter
- - [ ] 27 - Wrap Up
+ - [X] 22 - Writing nested test classes
+ - [X] 23 - Using supplier for assert messages
+ - [X] 24 - Using RepeatedTest
+ - [X] 25 - Tagging tests with @Tag
+ - [X] 26 - Using TestInfo and TestReporter
+ - [X] 27 - Wrap Up
